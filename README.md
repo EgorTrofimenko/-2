@@ -37,3 +37,5 @@ else
   echo "IP is incorrect"
 fi
 ```
+А вот пример выполнения данной программы:
+![image](https://github.com/user-attachments/assets/75a3e33c-1878-4070-938e-a55974bf8fb8)
